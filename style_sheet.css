@@ -2,7 +2,7 @@ body {
 	/*width: 70%;*/
 	/*min-width: 720px;*/
 	margin: 0 auto;
-	border: thick solid white;
+	/*border: thick solid white;*/
 	background-color: #0FE8D5;
 	text-align: justify;
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -75,9 +75,9 @@ div#skipnav {
 #navigation  ul{
  text-decoration:none;
  list-style: none;
-/* padding: 0px;
+ padding: 0px;
  margin: 0px;
- overflow: hidden;*/
+ overflow: hidden;
  
 }
 	
@@ -122,7 +122,7 @@ color: #000000;
 	font-family: Georgia, "times new roman", serif;
 	padding:3px;
 	color: #000000;
-	background: #CF0;
+	background: #ffffff;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-right: auto;
