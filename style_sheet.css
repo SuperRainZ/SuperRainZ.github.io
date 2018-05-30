@@ -1,5 +1,5 @@
 body {
-	width: 70%;
+	/*width: 70%;*/
 	min-width: 720px;
 	margin: 0 auto;
 	border: thick solid white;
@@ -65,6 +65,7 @@ div#skipnav {
  clear: left;
  background-color: #27FFD5;
  float: top;
+height: 5%;
  
 }
 #navigation  ul{
@@ -113,6 +114,7 @@ color: #000000;
 }
 #wapper{
 	border:10px;
+	width: 80%;
 	font-family: Georgia, "times new roman", serif;
 	padding:3px;
 	color: #000000;
