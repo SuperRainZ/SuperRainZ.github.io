@@ -64,10 +64,12 @@ div#skipnav {
  font-family:"trebuchet MS", arial, sans-serif;
  clear: left;
  background-color: #27FFD5;
+ float: top;
  
 }
 #navigation  ul{
  text-decoration:none;
+ list-style: none;
  padding: 0px;
  margin: 0px;
  overflow: hidden;
