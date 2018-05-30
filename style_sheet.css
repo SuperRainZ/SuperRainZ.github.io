@@ -69,7 +69,7 @@ div#skipnav {
 /* height: 8%;*/
  width : 100%;
  position: fixed;
- 
+ z-index:999;
  
 }
 #navigation  ul{
@@ -130,6 +130,7 @@ color: #000000;
 	position: relative;
 	float: bottom;
 	height: 85%;
+	z-index:99;
 }
 
 
