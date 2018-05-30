@@ -63,7 +63,7 @@ div#skipnav {
 
 #navigation{
  font-family:"trebuchet MS", arial, sans-serif;
-/* clear: left;*/
+ clear: left;
  background-color: #27FFD5;
  float: top;
 /* height: 8%;*/
