@@ -1,0 +1,145 @@
+body {
+	width: 70%;
+	min-width: 720px;
+	margin: 0 auto;
+	border: thick solid black;
+	background-color: #0FE8D5;
+	text-align: justify;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-top: 50px;
+	margin-right: 125px;
+	margin-bottom: 50px;
+	margin-left: 200px;
+	color: #250701;
+	background-image: url("pattern1.png");
+}
+p {
+	margin-right: 50px;
+	font-size: small;
+}
+h1 {
+	font-family: "Trebuchet MS", sans-serif;
+	background-color: #199745;
+	color: #E7DEC0;
+	padding: 12px;
+	font-size: 2.5em;
+	margin-left: -100px;
+	border: thin solid #6D4320;
+}
+h2 {
+	font-family: "Trebuchet MS", sans-serif;
+	color: #E81F0C;
+	border: thin solid #82ABB8;
+	margin-left: -100px;
+	margin-top: 50px;
+	padding-left: 12px;
+	background-color: #3BE80D;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+div {
+	background-color:#D2FF00;
+	padding: 0; 
+	border: 1px;
+	margin: 0;
+	}
+
+div.info{
+	
+	color: #120397;
+	background-color: #cccccc;
+	width:40%;
+	font-size: 1.2em;
+	float:left;
+	margin-left:20px;
+	margin-right:3px;
+	}
+	
+div#skipnav {
+ position: relative;
+ right: 1%;
+}
+
+#navigation{
+ font-family:"trebuchet MS", arial, sans-serif;
+ clear: left;
+ background-color: #27FFD5;
+ 
+}
+#navigation  ul{
+ text-decoration:none;
+ padding: 0px;
+ margin: 0px;
+ overflow: hidden;
+ 
+}
+	
+#navigation ul li{
+	width:20%;
+	float: left;
+	text-align: center;
+	}
+
+#navigation a {
+	text-decoration: none;
+	color: #0000ff;
+	display: block;
+	border: solid 1px #3A08FF;
+	}
+	
+	
+#navigation a:hover{
+	color: #ff00ff;
+	background-color:#0AD100;
+	}
+
+
+
+
+#overview{
+padding: 6px;
+background-color: #848A7A;
+color: #01348A;
+
+}
+#temp{
+background-color: #ffffff;
+border:10px;
+font-family: Georgia, "times new roman", serif;
+padding:3px;
+color: #000000;
+}
+#wapper{
+	border:10px;
+	font-family: Georgia, "times new roman", serif;
+	padding:3px;
+	color: #000000;
+	background: #CF0;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+	
+.imgLeft{
+margin-top: 10px;
+ margin-left: 40px;
+ margin-bottom: 20px;
+ 
+ }
+	
+a:link {
+	color: #A300E8;
+}
+a:visited {
+	color: #82ABB8;
+}
+a:hover {
+	color: #A300E8;
+	text-decoration: none;
+}
+a:active {
+	color: #6D4320;
+	text-decoration: none;
+}
+
