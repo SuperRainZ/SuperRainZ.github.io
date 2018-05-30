@@ -1,6 +1,6 @@
 body {
 	/*width: 70%;*/
-	min-width: 720px;
+	/*min-width: 720px;*/
 	margin: 0 auto;
 	border: thick solid white;
 	background-color: #0FE8D5;
@@ -75,9 +75,9 @@ div#skipnav {
 #navigation  ul{
  text-decoration:none;
  list-style: none;
- padding: 0px;
+/* padding: 0px;
  margin: 0px;
- overflow: hidden;
+ overflow: hidden;*/
  
 }
 	
